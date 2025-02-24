@@ -1,0 +1,17 @@
+.header {
+    background: var(--shades-1);
+    padding: 16px 0;
+}
+
+.header__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__logout {
+    padding: 16px 32px;
+    border-radius: 12px;
+    background-color: var(--shades-3);
+    color: var(--shades-0);
+}
