@@ -20,5 +20,3 @@ localStorage.clear() - метод полностью очищает localStorage
 
 sessionStorage - работает аналогично localStorage, но очищается автоматически в случае если 
 пользователь закроет выкладку или браузер 
-
-// async/await 
